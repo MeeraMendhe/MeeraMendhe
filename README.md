@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Meera's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeeraMendhe&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeeraMendhe&layout=compact)](https://github.com/meeramendhe/github-readme-stats)
+
