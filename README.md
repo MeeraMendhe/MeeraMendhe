@@ -12,6 +12,7 @@
 - Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer
 
 
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=MeeraMendhe&label=Profile%20views&color=0e75b6&style=flat" alt="meeramendhe" /> </h3>
 
 ⚡ One line that describes me best?
 
