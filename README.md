@@ -53,7 +53,12 @@ Profiencies
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeeraMendhe&layout=compact)](https://github.com/meeramendhe/github-readme-stats)
-
+<h2 align="left">☕ Let's Connect</h2>
+<p align="center">
+<a href="https://twitter.com/meeramendhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meeramendhe" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/meera-mendhe-953240201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meeramendhe" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.instagram.com/meeramendhe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meeramendhe" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
  <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   </p>
