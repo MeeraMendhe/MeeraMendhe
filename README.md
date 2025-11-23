@@ -46,7 +46,7 @@ Profiencies
   
 ![Meera's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeeraMendhe&show_icons=true&theme=highcontrast)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeeraMendhe&theme=highcontrast&fire=f7a305&ring=b0d90b&currStreakLabel=b0d90b)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeeraMendhendhe&theme=highcontrast&fire=f7a305&ring=b0d90b&currStreakLabel=b0d90b)](https://git.io/streak-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeeraMendhe&show_icons=true&theme=buefy&card_height=20)](https://github.com/MeeraMendhe/github-readme-stats) -->
 
