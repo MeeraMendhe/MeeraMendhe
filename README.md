@@ -43,10 +43,8 @@ Profiencies
   <img  src="https://user-images.githubusercontent.com/59872807/89734655-0bade600-da7b-11ea-91e3-a38a9d86eb25.jpg">
   </p>
   
-  
-![Meera's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeeraMendhe&show_icons=true&theme=highcontrast)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MeeraMendhe)](https://git.io/streak-stats)
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeeraMendhe&show_icons=true&theme=buefy&card_height=20)](https://github.com/MeeraMendhe/github-readme-stats) -->
 
